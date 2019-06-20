@@ -19,7 +19,6 @@ Matplotlib
 
 ### Files
 
-Readme
 Sparkify.ipynb - the code 
 
 
